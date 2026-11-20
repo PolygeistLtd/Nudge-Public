@@ -2,8 +2,8 @@
   "osVersionRequirements": [
     {
       "targetedOSVersionsRule": "default",
-      "requiredMinimumOSVersion": "27.0.1",
-      "requiredInstallationDate": "2026-11-01T00:00:00Z"
+      "requiredMinimumOSVersion": "27.2.1",
+      "requiredInstallationDate": "2026-12-04T17:00:00Z"
     }
   ]
 }
